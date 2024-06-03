@@ -1,0 +1,23 @@
+.trend{
+    text-align: center;
+    background-color: black;
+    color:white
+}
+
+body{
+    background-color: white;
+}
+
+.row{
+    justify-content: center;
+}
+
+.popular{
+    color:black;
+    text-align: center;
+    font-size: 18px;
+}
+.main{
+    color:black;
+    font-size: 20px;
+}
